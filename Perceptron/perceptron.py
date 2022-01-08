@@ -43,9 +43,9 @@ def train_and_perceptron():
     return p 
 
 if __name__=='__main__':
-    and_preception =train_and_perceptron()
-    print(and_preception)
-    print('1 and 1 =%d' % and_preception.predict([1, 1]))
-    print('0 and 0 =%d' % and_preception.predict([0, 0]))
-    print('1 and 0 =%d' % and_preception.predict([1, 0]))
-    print('0 and 1 =%d' % and_preception.predict([0, 1]))
+#     and_preception =train_and_perceptron()
+#     print(and_preception)
+#     print('1 and 1 =%d' % and_preception.predict([1, 1]))
+#     print('0 and 0 =%d' % and_preception.predict([0, 0]))
+#     print('1 and 0 =%d' % and_preception.predict([1, 0]))
+#     print('0 and 1 =%d' % and_preception.predict([0, 1]))
